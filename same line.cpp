@@ -20,7 +20,7 @@ int main()
     }
     else
     {
-        cout<<"all poimts doesnt not fall on the same line";
+        cout<<"all points doesnt not fall on the same line";
 
     }
 }
